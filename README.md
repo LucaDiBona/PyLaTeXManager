@@ -16,7 +16,7 @@ Below is a categorised list of planned features
 - [ ] Generate a master document of homeworks  per module
 - [ ] Generate a master document of proofs per module
 - [ ] Generate a master document of summaries per module
-- [ ] Generate an ODF revision spreadsheet based on subsection headers
+- [ ] Generate an ODF revision spreadsheet based on section headers
 - [ ] Generate a printable version (grayscale, roman typeface and white background) of all other files
 
 #### Work Setup

@@ -1,12 +1,12 @@
 # Fdb version 3
-["pdflatex"] 1615767549 "c:/Users/lucad/PyLaTeXManager/PyLaTeXManager/test.tex" "c:/Users/lucad/PyLaTeXManager/PyLaTeXManager/test.pdf" "test" 1615767549
+["pdflatex"] 1615770881 "c:/Users/lucad/PyLaTeXManager/PyLaTeXManager/test.tex" "c:/Users/lucad/PyLaTeXManager/PyLaTeXManager/test.pdf" "test" 1615770881
   "C:/Users/lucad/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1604407131 10294360 a2812f629ee5012e4f741415f0f927c9 ""
-  "c:/Users/lucad/PyLaTeXManager/PyLaTeXManager/ctest.cls" 0 -1 0 ""
-  "c:/Users/lucad/PyLaTeXManager/PyLaTeXManager/test.aux" 1615767549 9 a94a2480d3289e625eea47cd1b285758 ""
-  "c:/Users/lucad/PyLaTeXManager/PyLaTeXManager/test.tex" 1615767541 133 dfb2377106a4acfb03c592fa82bfbb3c ""
-  "ctest.cls" 0 -1 0 ""
-  "test.tex" 1615767541 133 dfb2377106a4acfb03c592fa82bfbb3c ""
+  "TestClass.cls" 0 -1 0 ""
+  "c:/Users/lucad/PyLaTeXManager/PyLaTeXManager/TestClass.cls" 0 -1 0 ""
+  "c:/Users/lucad/PyLaTeXManager/PyLaTeXManager/test.aux" 1615770881 9 a94a2480d3289e625eea47cd1b285758 ""
+  "c:/Users/lucad/PyLaTeXManager/PyLaTeXManager/test.tex" 1615770876 137 1430792673d3a5b30dcae357b33de53a ""
+  "test.tex" 1615770876 137 1430792673d3a5b30dcae357b33de53a ""
   (generated)
-  "test.log"
-  "c:/Users/lucad/PyLaTeXManager/PyLaTeXManager/test.pdf"
   "c:/Users/lucad/PyLaTeXManager/PyLaTeXManager/test.log"
+  "c:/Users/lucad/PyLaTeXManager/PyLaTeXManager/test.pdf"
+  "test.log"
