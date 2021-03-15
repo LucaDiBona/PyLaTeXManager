@@ -7,6 +7,11 @@ class LatexFile():
         self.__fContentsI=self.__f.read()
         print(self.inBrackets("title"))
 
+        self.structure=[{
+            "chapterTitle": "preamble",
+            "sections":[]
+            }]
+
 
     def inBrackets(self, keyword: str, startPos: int = 0) -> dict:
         """Finds words inside {} for next appropriate LaTeX command
